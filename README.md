@@ -21,3 +21,5 @@ Tinted vines don't spread
 
 The colors work by extracting RGB values from vanilla's biome color maps (which should respect resource packs) or using hardcoded hex values for custom essences, then applying those fixed colors through custom color handlers.
 There will be some classes attached along side this summary so you can see the mod's code.
+
+More info here: https://www.curseforge.com/minecraft/mc-mods/native-nature
