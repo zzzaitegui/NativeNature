@@ -7,7 +7,7 @@ How it works:
 The mod has "Essences" - special items that represent different biome color palettes. There are 17 essences total, most extracted directly from vanilla biomes (Forest, Desert, Swamp, etc.) and some use custom hex colors (like Stygian essence with a deep blueish-green).
 To craft tinted blocks, you surround an essence with 8 of the vanilla block in a crafting table. You get 8 tinted blocks back, and the essence isn't consumed - you can reuse it infinitely.
 
-Available blocks for all essence except Arctic:
+Available blocks for all essences except Arctic:
 Oak Leaves, Jungle Leaves, Acacia Leaves, Dark Oak Leaves, Mangrov Leavese, Grass Block, Grass, Tall Grass, Fern, Large Fern, Sugar Cane, Vines.
 
 Extra available blocks for Arctic Essence: 
