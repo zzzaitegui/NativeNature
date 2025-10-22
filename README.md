@@ -16,9 +16,13 @@ Birch Leaves, Spruce Leaves, Azalea Leaves, Flowering Azalea Leaves, Cherry Leav
 Special features:
 
 Tinted leaves don't decay
+
 Tinted grass blocks don't spread to dirt
+
 Tinted plants can be placed on any block (not just dirt/grass)
+
 Tinted sugar cane doesn't grow
+
 Tinted vines don't spread
 
 The colors work by extracting RGB values from vanilla's biome color maps (which should respect resource packs) or using hardcoded hex values for custom essences, then applying those fixed colors through custom color handlers.
