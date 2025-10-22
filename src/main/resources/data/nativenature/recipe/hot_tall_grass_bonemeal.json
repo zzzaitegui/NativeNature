@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nativenature:hot_grass"
+    },
+    {
+      "item": "nativenature:hot_grass"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "id": "nativenature:hot_tall_grass"
+  }
+}

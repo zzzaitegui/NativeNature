@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:fern"
+  },
+  "essence": {
+    "item": "nativenature:forest_essence"
+  },
+  "result": {
+    "id": "nativenature:forest_fern",
+    "count": 8
+  }
+}

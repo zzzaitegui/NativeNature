@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:tall_grass"
+  },
+  "essence": {
+    "item": "nativenature:highlands_essence"
+  },
+  "result": {
+    "id": "nativenature:highlands_tall_grass",
+    "count": 8
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:dark_oak_leaves"
+  },
+  "essence": {
+    "item": "nativenature:wasteland_essence"
+  },
+  "result": {
+    "id": "nativenature:wasteland_dark_oak_leaves",
+    "count": 8
+  }
+}

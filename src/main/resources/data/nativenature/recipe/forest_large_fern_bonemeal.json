@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nativenature:forest_fern"
+    },
+    {
+      "item": "nativenature:forest_fern"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "id": "nativenature:forest_large_fern"
+  }
+}

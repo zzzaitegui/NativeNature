@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:mangrove_leaves"
+  },
+  "essence": {
+    "item": "nativenature:dry_essence"
+  },
+  "result": {
+    "id": "nativenature:dry_mangrove_leaves",
+    "count": 8
+  }
+}

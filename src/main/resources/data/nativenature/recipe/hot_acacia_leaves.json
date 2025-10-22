@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:acacia_leaves"
+  },
+  "essence": {
+    "item": "nativenature:hot_essence"
+  },
+  "result": {
+    "id": "nativenature:hot_acacia_leaves",
+    "count": 8
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:short_grass"
+  },
+  "essence": {
+    "item": "nativenature:arid_essence"
+  },
+  "result": {
+    "id": "nativenature:arid_grass",
+    "count": 8
+  }
+}

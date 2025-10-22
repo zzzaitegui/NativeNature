@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:birch_leaves"
+  },
+  "essence": {
+    "item": "nativenature:arctic_essence"
+  },
+  "result": {
+    "id": "nativenature:arctic_birch_leaves",
+    "count": 8
+  }
+}

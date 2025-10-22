@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:large_fern"
+  },
+  "essence": {
+    "item": "nativenature:continental_essence"
+  },
+  "result": {
+    "id": "nativenature:continental_large_fern",
+    "count": 8
+  }
+}

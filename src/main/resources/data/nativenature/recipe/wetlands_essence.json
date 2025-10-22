@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:mud"
+    },
+    {
+      "item": "minecraft:lily_pad"
+    }
+  ],
+  "result": {
+    "id": "nativenature:wetlands_essence"
+  }
+}

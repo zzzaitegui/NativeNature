@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:tall_grass"
+  },
+  "essence": {
+    "item": "nativenature:stygian_essence"
+  },
+  "result": {
+    "id": "nativenature:stygian_tall_grass",
+    "count": 8
+  }
+}

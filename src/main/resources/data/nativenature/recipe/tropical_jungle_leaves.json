@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:jungle_leaves"
+  },
+  "essence": {
+    "item": "nativenature:tropical_essence"
+  },
+  "result": {
+    "id": "nativenature:tropical_jungle_leaves",
+    "count": 8
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:jungle_leaves"
+  },
+  "essence": {
+    "item": "nativenature:stygian_essence"
+  },
+  "result": {
+    "id": "nativenature:stygian_jungle_leaves",
+    "count": 8
+  }
+}

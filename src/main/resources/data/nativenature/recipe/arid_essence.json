@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:acacia_leaves"
+    },
+    {
+      "item": "minecraft:acacia_log"
+    }
+  ],
+  "result": {
+    "id": "nativenature:arid_essence"
+  }
+}

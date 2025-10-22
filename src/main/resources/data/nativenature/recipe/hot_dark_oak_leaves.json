@@ -1,0 +1,14 @@
+{
+  "type": "nativenature:tinted_block_crafting",
+  "category": "building",
+  "input": {
+    "item": "minecraft:dark_oak_leaves"
+  },
+  "essence": {
+    "item": "nativenature:hot_essence"
+  },
+  "result": {
+    "id": "nativenature:hot_dark_oak_leaves",
+    "count": 8
+  }
+}
